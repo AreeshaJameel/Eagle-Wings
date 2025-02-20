@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\arees\\OneDrive\\Desktop\\Face Tracking\\DaSiamRPN\\code",
+        "./tello/drone_project/navigation_plan/navigators"
+    ]
+}
